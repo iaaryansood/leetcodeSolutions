@@ -46,6 +46,7 @@ this repositry contains leetcode questions solved
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
