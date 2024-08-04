@@ -53,6 +53,7 @@ this repositry contains leetcode questions solved
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -77,4 +78,12 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
