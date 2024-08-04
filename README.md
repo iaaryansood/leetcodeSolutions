@@ -6,6 +6,7 @@ this repositry contains leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
@@ -66,4 +67,12 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
