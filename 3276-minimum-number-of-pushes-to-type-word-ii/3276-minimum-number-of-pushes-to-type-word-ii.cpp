@@ -7,8 +7,8 @@ public:
     {
         frequency[word[i] - 'a']++;
     }
-    sort(frequency.begin(),frequency.end());
-    reverse(frequency.begin(),frequency.end());
+    sort(frequency.rbegin(),frequency.rend());
+    // reverse(frequency.begin(),frequency.end());
     int count=0;
     for(int i=0;i<frequency.size();i++)
     {
