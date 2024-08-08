@@ -6,6 +6,7 @@ this repositry contains leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -97,6 +98,7 @@ this repositry contains leetcode questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
