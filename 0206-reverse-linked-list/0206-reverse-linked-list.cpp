@@ -11,23 +11,22 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head == NULL || head->next  == NULL)
+        vector<int> ans;
+        while(head != NULL)
         {
-            return head;
+            ans.push_back(head->val);
+            head=head->next;
         }
-        // vector<int> temp;
-        else
+        reverse(ans.begin(),ans.end());
+        if(ans.empty())
+        return NULL;
+        ListNode * new_head=new ListNode(ans[0]);
+        ListNode * curr=new_head;
+        for(int i=1;i<ans.size();i++)
         {
-            ListNode * curr=reverseList(head->next);
-            ListNode * ans=curr;
-            while(curr->next != NULL)
-            {
-                curr=curr->next;
-            }
-            curr->next=head;
-            head->next=NULL;
-            return ans;
+            curr->next=new ListNode(ans[i]);
+            curr=curr->next;
         }
-
+        return new_head;
     }
 };
