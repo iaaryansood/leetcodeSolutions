@@ -17,7 +17,7 @@ public:
                 }
                 else
                 {
-                    cout<<temp;
+                    // cout<<temp;
                     ans.push_back(temp);
                 }
             }
