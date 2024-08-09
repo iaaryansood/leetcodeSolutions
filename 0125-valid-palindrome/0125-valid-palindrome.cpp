@@ -12,7 +12,7 @@ public:
                 {
                     // cout<<temp+'a' - 'A';
                     temp=tolower(temp);
-                    cout<<temp;
+                    // cout<<temp;
                     ans.push_back(temp);
                 }
                 else
