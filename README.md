@@ -7,6 +7,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ this repositry contains leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -49,6 +51,7 @@ this repositry contains leetcode questions solved
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
