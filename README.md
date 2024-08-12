@@ -17,6 +17,7 @@ this repositry contains leetcode questions solved
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -118,6 +119,7 @@ this repositry contains leetcode questions solved
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
