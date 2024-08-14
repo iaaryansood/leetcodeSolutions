@@ -13,7 +13,7 @@ public:
         int ans=1;
         for(auto it:map)
         {
-            cout<<it.first<<" ";
+            // cout<<it.first<<" ";
             if(it.first == ans)
             {
                 ans++;
