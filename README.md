@@ -23,6 +23,7 @@ this repositry contains leetcode questions solved
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -41,6 +42,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
