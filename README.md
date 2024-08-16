@@ -16,6 +16,7 @@ this repositry contains leetcode questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0229-majority-element-ii) |
@@ -51,6 +52,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -91,6 +93,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0007-reverse-integer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
