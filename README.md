@@ -11,6 +11,7 @@ this repositry contains leetcode questions solved
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -78,6 +79,7 @@ this repositry contains leetcode questions solved
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -155,4 +157,8 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
