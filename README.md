@@ -15,6 +15,7 @@ this repositry contains leetcode questions solved
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
@@ -138,6 +139,7 @@ this repositry contains leetcode questions solved
 | [0001-two-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -185,4 +187,8 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
