@@ -17,6 +17,7 @@ this repositry contains leetcode questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -63,6 +65,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
