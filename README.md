@@ -7,6 +7,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
@@ -45,6 +46,7 @@ this repositry contains leetcode questions solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -53,6 +55,7 @@ this repositry contains leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
