@@ -1,63 +1,23 @@
-#include<unordered_map>
 class Solution {
-public:
-    // bool checkInclusion(string s1, string s2) {
-    //     unordered_map<char,int> map,map2;
-    //     for(int i=0;i<s1.length();i++)
-    //     {
-    //         map[s1[i]]++;
-    //     }
-    //     int i=0,window=s1.length();
-    //     while(i < window && i < s2.length())
-    //     {
-    //         map2[s2[i]]++;
-    //         i++;
-    //     }
-    //     if(map == map2)
-    //     {
-    //         return true;
-    //     }
-    //     while(i < s2.length())
-    //     {
-    //         map2[s2[i]]++;
-    //         map2[s2[i-window]]--;
-    //         if(map == map2)
-    //         {
-    //             return true;
-    //         }
-    //         i++;
-    //     }
-    //     return false;
-    // }
-    bool checkInclusion(string s1, string s2) {
-    unordered_map<char, int> map, map2;
-    for (char c : s1) {
-        map[c]++;
-    }
+ public:
+  bool checkInclusion(string s1, string s2) {
+    vector<int> count(26);
+    int required = s1.length();
 
-    int i = 0, window = s1.length();
-    while (i < window && i < s2.length()) {
-        map2[s2[i]]++;
-        i++;
-    }
+    for (const char c : s1)
+      ++count[c - 'a'];
 
-    if (map == map2) {
-        return true;
-    }
-
-    while (i < s2.length()) {
-        map2[s2[i]]++;
-        map2[s2[i - window]]--; // Corrected line
-        if (map2[s2[i - window]] == 0) {
-            map2.erase(s2[i - window]); // Remove the character from map2
-        }
-        i++;
-        if (map == map2) {
-            return true;
-        }
+    for (int l = 0, r = 0; r < s2.length(); ++r) {
+      if (--count[s2[r] - 'a'] >= 0)
+        --required;
+      while (required == 0) {
+        if (r - l + 1 == s1.length())
+          return true;
+        if (++count[s2[l++] - 'a'] > 0)
+          ++required;
+      }
     }
 
     return false;
-}
-
+  }
 };
