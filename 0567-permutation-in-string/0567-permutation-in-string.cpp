@@ -1,23 +1,48 @@
+#include <unordered_map>
+#include <string>
+using namespace std;
+
 class Solution {
- public:
-  bool checkInclusion(string s1, string s2) {
-    vector<int> count(26);
-    int required = s1.length();
+public:
+    bool checkInclusion(string s1, string s2) {
+        int s1Len = s1.size();
+        int s2Len = s2.size();
 
-    for (const char c : s1)
-      ++count[c - 'a'];
+        if (s1Len > s2Len) return false;  // If s1 is longer than s2, impossible to have a permutation.
 
-    for (int l = 0, r = 0; r < s2.length(); ++r) {
-      if (--count[s2[r] - 'a'] >= 0)
-        --required;
-      while (required == 0) {
-        if (r - l + 1 == s1.length())
-          return true;
-        if (++count[s2[l++] - 'a'] > 0)
-          ++required;
-      }
+        unordered_map<char, int> s1Map, s2Map;
+
+        // Count frequencies of each character in s1
+        for (char c : s1) {
+            s1Map[c]++;
+        }
+
+        // Initialize the frequency map for the first window in s2
+        for (int i = 0; i < s1Len; i++) {
+            s2Map[s2[i]]++;
+        }
+
+        // Check if the first window matches s1's character frequency
+        if (s1Map == s2Map) return true;
+
+        // Slide the window over s2
+        for (int i = s1Len; i < s2Len; i++) {
+            // Add the new character in the window
+            char newChar = s2[i];
+            s2Map[newChar]++;
+            
+            // Remove the old character from the window
+            char oldChar = s2[i - s1Len];
+            if (s2Map[oldChar] == 1) {
+                s2Map.erase(oldChar);  // Remove entry if count is zero
+            } else {
+                s2Map[oldChar]--;
+            }
+
+            // Check if the current window matches s1's character frequency
+            if (s1Map == s2Map) return true;
+        }
+
+        return false;  // No permutation found
     }
-
-    return false;
-  }
 };
