@@ -156,6 +156,7 @@ this repositry contains leetcode questions solved
 | [0229-majority-element-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -167,6 +168,7 @@ this repositry contains leetcode questions solved
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -214,5 +216,6 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
