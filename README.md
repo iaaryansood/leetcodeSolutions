@@ -30,6 +30,7 @@ this repositry contains leetcode questions solved
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -107,6 +108,7 @@ this repositry contains leetcode questions solved
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Enumeration
@@ -117,6 +119,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +162,7 @@ this repositry contains leetcode questions solved
 | [0424-longest-repeating-character-replacement](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -177,6 +181,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0229-majority-element-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
