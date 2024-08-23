@@ -5,12 +5,10 @@ public:
         int left=0,right=0;
         int minlen=INT_MAX;
         int startIndex=-1;
-
         for(int i=0;i<t.size();i++)
         {
             hash[t[i]]++;
         }
-
         int count=0;
         while(right < s.size())
         {
@@ -35,10 +33,10 @@ public:
             }
             right++;
         }
-       if(startIndex == -1)
-       {
+        if(startIndex == -1)
+        {
             return "";
-       }
-       return s.substr(startIndex,right - left + 1);
+        }
+        return s.substr(startIndex,minlen);
     }
 };
