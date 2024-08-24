@@ -33,6 +33,7 @@ this repositry contains leetcode questions solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -81,6 +82,7 @@ this repositry contains leetcode questions solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
