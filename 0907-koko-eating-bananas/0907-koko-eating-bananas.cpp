@@ -22,9 +22,7 @@ public:
         while(left <= right)
         {
             int mid=left+(right-left)/2;
-            cout<<left<<" "<<mid<<" "<<right<<endl;
             long required=isenough(piles,mid);
-            cout<<"required : "<<required<<endl;
             if(required <= h)
             {
                 result=mid;
