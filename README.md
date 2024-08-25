@@ -133,6 +133,7 @@ this repositry contains leetcode questions solved
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -150,6 +151,7 @@ this repositry contains leetcode questions solved
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
