@@ -68,6 +68,7 @@ this repositry contains leetcode questions solved
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -135,6 +136,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -154,6 +156,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
@@ -161,6 +164,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
