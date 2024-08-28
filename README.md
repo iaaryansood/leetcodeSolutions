@@ -46,6 +46,7 @@ this repositry contains leetcode questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@ this repositry contains leetcode questions solved
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -203,6 +205,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
