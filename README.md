@@ -19,6 +19,7 @@ this repositry contains leetcode questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0007-reverse-integer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -171,6 +173,7 @@ this repositry contains leetcode questions solved
 | [0020-valid-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0155-min-stack) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
