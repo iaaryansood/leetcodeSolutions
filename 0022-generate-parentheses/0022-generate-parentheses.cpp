@@ -1,49 +1,29 @@
 class Solution {
 public:
-    bool isValid(string curr_str)
+    void backtracking(vector<string> &answer,string curr_str,int leftCount,int rightCount,int n)
     {
-        cout<<curr_str<<" ";
-        int left_count=0;
-        for(int i=0;i<curr_str.size();i++)
+        if(curr_str.size() == 2 * n)
         {
-            if(left_count < 0)
+            answer.push_back(curr_str);
+            return;
+        }
+        else
+        {
+            if(leftCount < n)
             {
-                return false;
+                backtracking(answer,curr_str+'(',leftCount+1,rightCount,n);
             }
-            if(curr_str[i] == '(')
+            if(leftCount > rightCount)
             {
-                left_count++;
-            }
-            else
-            {
-                left_count--;
+                backtracking(answer,curr_str+')',leftCount,rightCount+1,n);
             }
         }
-        return left_count == 0;
     }
     vector<string> generateParenthesis(int n) {
-        queue<string> q;
-        vector<string> ans;
-        q.push("");
-        while(!q.empty())
-        {
-            string curr_str=q.front();
-            q.pop();
-            if(curr_str.length() == 2*n)
-            {
-                if(isValid(curr_str))
-                {
-                    ans.push_back(curr_str);
-                }
-            }
-            else
-            {
-                string left=curr_str + '(';
-                string right=curr_str + ')';
-                q.push(left);
-                q.push(right);
-            }
-        }
-        return ans;
+        // optimised approach backtracking
+        vector<string> answer;
+        string curr_str="";
+        backtracking(answer,curr_str,0,0,n);
+        return answer;
     }
 };
