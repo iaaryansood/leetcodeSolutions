@@ -171,6 +171,7 @@ this repositry contains leetcode questions solved
 | [0020-valid-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0155-min-stack) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
@@ -269,6 +270,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
