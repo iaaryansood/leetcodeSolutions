@@ -34,6 +34,7 @@ this repositry contains leetcode questions solved
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0739-daily-temperatures](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -177,6 +178,7 @@ this repositry contains leetcode questions solved
 | [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
