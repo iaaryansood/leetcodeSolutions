@@ -41,6 +41,7 @@ this repositry contains leetcode questions solved
 | [1019-squares-of-a-sorted-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1127-last-stone-weight](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1127-last-stone-weight) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -242,6 +243,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
