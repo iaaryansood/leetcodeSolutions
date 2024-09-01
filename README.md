@@ -80,6 +80,7 @@ this repositry contains leetcode questions solved
 | [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -139,6 +140,7 @@ this repositry contains leetcode questions solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0755-reach-a-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0755-reach-a-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -210,6 +212,7 @@ this repositry contains leetcode questions solved
 | [0138-copy-list-with-random-pointer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
