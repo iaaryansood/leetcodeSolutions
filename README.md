@@ -11,6 +11,7 @@ this repositry contains leetcode questions solved
 | [0015-3sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
@@ -129,6 +130,7 @@ this repositry contains leetcode questions solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -136,6 +138,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
