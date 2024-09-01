@@ -142,6 +142,7 @@ this repositry contains leetcode questions solved
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0231-power-of-two) |
 | [0755-reach-a-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0755-reach-a-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
@@ -163,6 +164,7 @@ this repositry contains leetcode questions solved
 | [0025-reverse-nodes-in-k-group](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -177,6 +179,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
