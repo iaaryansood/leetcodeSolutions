@@ -5,9 +5,9 @@ private:
         int depth=0;
         while(!q.empty())
         {
-            int size=q.size();
-            while(size--)
-            {
+            // int size=q.size();
+            // while(size--)
+            // {
                 pair<int,pair<int,int>> temp=q.front();
 
                 depth=temp.first;
@@ -43,7 +43,7 @@ private:
                     visited[row][col+1]=1;
                     q.push(pair<int,pair<int,int>>(depth+1,pair<int,int>(row,col+1)));
                 }  
-            }          
+            // }          
         }
         return depth;
 
