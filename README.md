@@ -294,6 +294,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,4 +338,16 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
