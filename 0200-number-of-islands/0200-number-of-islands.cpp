@@ -50,15 +50,13 @@ public:
         {
             for(int j=0;j<n;j++)
             {
-                if(grid[i][j] - '0')
+                if(grid[i][j] - '0' && !visited[i][j])
                 {
-                    if(!visited[i][j])
-                    {
-                        q.push(pair<int,int>(i,j));
-                        visited[i][j]=1;
-                        countIslands++;
-                        bfs(q,grid,visited,m,n);
-                    }
+                    q.push(pair<int,int>(i,j));
+                    visited[i][j]=1;
+                    countIslands++;
+                    bfs(q,grid,visited,m,n);
+
                 }
             }
         }
