@@ -25,6 +25,7 @@ this repositry contains leetcode questions solved
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ this repositry contains leetcode questions solved
 | [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -294,6 +296,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
@@ -341,10 +344,12 @@ this repositry contains leetcode questions solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
