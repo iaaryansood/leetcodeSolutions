@@ -36,6 +36,7 @@ this repositry contains leetcode questions solved
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
@@ -61,6 +62,7 @@ this repositry contains leetcode questions solved
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
 ## Greedy
@@ -139,6 +141,7 @@ this repositry contains leetcode questions solved
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## Math
@@ -357,6 +360,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
