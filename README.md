@@ -20,6 +20,7 @@ this repositry contains leetcode questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
@@ -139,6 +140,7 @@ this repositry contains leetcode questions solved
 | [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
@@ -303,6 +305,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
@@ -351,6 +354,7 @@ this repositry contains leetcode questions solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
@@ -358,6 +362,7 @@ this repositry contains leetcode questions solved
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
