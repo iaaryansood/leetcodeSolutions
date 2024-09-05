@@ -310,6 +310,7 @@ this repositry contains leetcode questions solved
 | [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
 |  |
@@ -362,6 +363,7 @@ this repositry contains leetcode questions solved
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -372,6 +374,7 @@ this repositry contains leetcode questions solved
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -379,6 +382,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
