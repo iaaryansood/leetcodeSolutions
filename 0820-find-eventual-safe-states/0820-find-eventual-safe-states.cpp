@@ -4,6 +4,7 @@ public:
 
         vector<vector<int>> adj(graph.size());
 
+        // reverse the graph
         for(int i=0;i<graph.size();i++)
         {
             for(int j=0;j<graph[i].size();j++)
