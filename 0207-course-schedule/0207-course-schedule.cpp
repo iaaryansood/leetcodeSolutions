@@ -1,28 +1,5 @@
+// Solution using topological sort
 class Solution {
-private :
-    bool dfs(int node,vector<vector<int>> &adjlist,vector<int> &visited)
-    {
-        visited[node]=1;
-
-        for(int i=0;i<adjlist[node].size();i++)
-        {
-            int temp=adjlist[node][i];
-            if(visited[temp] == 0)
-            {
-                // visited[temp]=1;
-                if(dfs(temp,adjlist,visited))
-                {
-                    return true;
-                }
-            }
-            else if(visited[temp] == 1)
-            {
-                return true;
-            }
-        }
-        visited[node]=2;
-        return false;
-    }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<int> visited(numCourses,0);
@@ -35,20 +12,46 @@ public:
             {
                 int course=prerequisites[i][0];
                 int prerequisite=prerequisites[i][1];
-                adjlist[course].push_back(prerequisite);
+                adjlist[prerequisite].push_back(course);
             }
         }
 
-        for(int i=0;i<visited.size();i++)
+        vector<int> ans;
+        vector<int> indegree(numCourses,0);
+
+        for(int i=0;i<adjlist.size();i++)
         {
-            if(visited[i] == 0)
+            for(int j=0;j<adjlist[i].size();j++)
             {
-                if(dfs(i,adjlist,visited))
-                {
-                    return false;
-                }
+                indegree[adjlist[i][j]]++;
             }
         }
-        return true;
+
+        queue<int> q;
+        for(int i=0;i<indegree.size();i++)
+        {
+            if(indegree[i] == 0)
+            {
+                q.push(i);
+            }
+        }
+        
+        while(!q.empty())
+        {
+            int node=q.front();
+            q.pop();
+
+            for(int i=0;i<adjlist[node].size();i++)
+            {
+                int temp=adjlist[node][i];
+                indegree[temp]--;
+                if(indegree[temp] == 0)
+                {
+                    q.push(temp);
+                }
+            }
+            ans.push_back(node);
+        }
+        return (ans.size() == numCourses);
     }
 };
