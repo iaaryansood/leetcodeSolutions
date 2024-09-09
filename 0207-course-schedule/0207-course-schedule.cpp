@@ -33,8 +33,8 @@ public:
         {
             for(int j=0;j<prerequisites[i].size();j++)
             {
-                int course=prerequisites[i][1];
-                int prerequisite=prerequisites[i][0];
+                int course=prerequisites[i][0];
+                int prerequisite=prerequisites[i][1];
                 adjlist[course].push_back(prerequisite);
             }
         }
