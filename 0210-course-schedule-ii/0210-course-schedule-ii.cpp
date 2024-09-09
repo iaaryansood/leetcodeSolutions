@@ -1,57 +1,58 @@
 class Solution {
-private: 
-    bool dfs(int node,vector<int> &visited,vector<int> &pathVisited,vector<vector<int>> &adjlist,vector<int> &order)
-    {
-        visited[node]=1;
-        pathVisited[node]=1;
-
-        for(int i=0;i<adjlist[node].size();i++)
-        {
-            int temp=adjlist[node][i];
-
-            if(visited[temp] == 0)
-            {
-                if(dfs(temp,visited,pathVisited,adjlist,order))
-                {
-                    return true;
-                }
-            }
-            else if(pathVisited[temp] == 1)
-            {
-                return true;
-            }
-        }
-        pathVisited[node]=0;
-        order.push_back(node);
-        return false;
-    }
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> visited(numCourses,0);
-        vector<int> pathVisited(numCourses,0);
-
-        vector<int> courses;
         vector<vector<int>> adjlist(numCourses);
 
         for(int i=0;i < prerequisites.size();i++)
         {
             int course=prerequisites[i][0];
             int prerequisite=prerequisites[i][1];
-            adjlist[course].push_back(prerequisite);
+            adjlist[prerequisite].push_back(course);
         }
         
         vector<int> order;
-        // starting the traversal
-        for(int i=0;i<numCourses;i++)
+        vector<int> indegree(numCourses,0);
+        
+        for(int i=0;i<adjlist.size();i++)
         {
-            if(!visited[i])
+            for(int j=0;j<adjlist[i].size();j++)
             {
-                if(dfs(i,visited,pathVisited,adjlist,order))
-                {
-                    return vector<int>();
-                }
+                indegree[adjlist[i][j]]++;
             }
         }
+
+        queue<int> q;
+        // pushing the vertices with 0 indegree to the queue
+        for(int i=0;i<indegree.size();i++)
+        {
+            if(indegree[i] == 0)
+            {
+                q.push(i);
+            }
+        }
+
+        while(!q.empty())
+        {
+            int node=q.front();
+            q.pop();
+            
+            for(int i=0;i<adjlist[node].size();i++)
+            {
+                int temp=adjlist[node][i];
+                indegree[temp]--;
+                if(indegree[temp] == 0)
+                {
+                    q.push(temp);
+                }
+            }
+            order.push_back(node);
+        }
+
+        if(order.size() < numCourses)
+        {
+            return vector<int>();
+        }
+
         return order;
     }
 };
