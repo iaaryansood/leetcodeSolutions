@@ -230,6 +230,7 @@ this repositry contains leetcode questions solved
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -255,6 +256,7 @@ this repositry contains leetcode questions solved
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -370,6 +372,7 @@ this repositry contains leetcode questions solved
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
