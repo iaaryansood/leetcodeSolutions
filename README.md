@@ -52,6 +52,7 @@ this repositry contains leetcode questions solved
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -148,6 +149,7 @@ this repositry contains leetcode questions solved
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
 |  |
 | ------- |
@@ -384,6 +386,7 @@ this repositry contains leetcode questions solved
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
