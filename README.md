@@ -55,6 +55,7 @@ this repositry contains leetcode questions solved
 | [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
@@ -110,6 +111,7 @@ this repositry contains leetcode questions solved
 | [0907-koko-eating-bananas](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ this repositry contains leetcode questions solved
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +300,7 @@ this repositry contains leetcode questions solved
 | [0621-task-scheduler](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -316,6 +320,7 @@ this repositry contains leetcode questions solved
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -371,6 +376,7 @@ this repositry contains leetcode questions solved
 | [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +393,7 @@ this repositry contains leetcode questions solved
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
