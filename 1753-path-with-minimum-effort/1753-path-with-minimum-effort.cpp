@@ -18,10 +18,10 @@ public:
             int rootDiff=p.first;
             int row=p.second.first;
             int col=p.second.second;
-            // if(row == n-1 && col == m-1)
-            // {
-            //     return rootDiff;
-            // }
+            if(row == n-1 && col == m-1)
+            {
+                return rootDiff;
+            }
             vector<int> dx={0,-1,0,1};
             vector<int> dy={-1,0,1,0};
 
