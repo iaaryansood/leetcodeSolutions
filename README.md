@@ -67,6 +67,7 @@ this repositry contains leetcode questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1659-get-the-maximum-score) |
 ## Greedy
@@ -298,6 +299,7 @@ this repositry contains leetcode questions solved
 | [0295-find-median-from-data-stream](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0621-task-scheduler) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
@@ -374,6 +376,7 @@ this repositry contains leetcode questions solved
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
@@ -389,6 +392,7 @@ this repositry contains leetcode questions solved
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
@@ -401,6 +405,7 @@ this repositry contains leetcode questions solved
 | [0210-course-schedule-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -408,4 +413,8 @@ this repositry contains leetcode questions solved
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
