@@ -44,6 +44,6 @@ public:
                 }
             }
         }
-        return count[n-1] % MOD;
+        return count[n-1] ;
     }
 };
