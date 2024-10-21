@@ -381,6 +381,7 @@ this repositry contains leetcode questions solved
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0744-network-delay-time) |
@@ -399,6 +400,7 @@ this repositry contains leetcode questions solved
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
@@ -439,4 +441,12 @@ this repositry contains leetcode questions solved
 | [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
