@@ -378,6 +378,7 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
@@ -448,12 +449,14 @@ this repositry contains leetcode questions solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
