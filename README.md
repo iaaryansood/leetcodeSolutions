@@ -377,6 +377,7 @@ this repositry contains leetcode questions solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
@@ -398,6 +399,7 @@ this repositry contains leetcode questions solved
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0130-surrounded-regions) |
@@ -448,6 +450,7 @@ this repositry contains leetcode questions solved
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
@@ -455,6 +458,7 @@ this repositry contains leetcode questions solved
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
