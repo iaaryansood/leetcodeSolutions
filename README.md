@@ -383,6 +383,7 @@ this repositry contains leetcode questions solved
 | [0207-course-schedule](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0744-network-delay-time) |
@@ -448,9 +449,11 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
