@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* &root) {
+    vector<vector<int>> levelOrder(TreeNode* root) {
         if(root == NULL)
         {
             return {};
@@ -19,7 +19,8 @@ public:
         else
         {
             vector<vector<int>> ans;
-            vector<int> temp={root->val};
+            vector<int> temp;
+            temp.push_back(root->val);
             ans.push_back(temp);
 
             vector<vector<int>> left=levelOrder(root->left);
