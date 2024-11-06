@@ -17,6 +17,7 @@ this repositry contains leetcode questions solved
 | [0059-spiral-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -139,6 +140,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -240,6 +242,7 @@ this repositry contains leetcode questions solved
 | [0041-first-missing-positive](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -460,6 +463,7 @@ this repositry contains leetcode questions solved
 | [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
@@ -473,6 +477,7 @@ this repositry contains leetcode questions solved
 | [0100-same-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
