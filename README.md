@@ -29,6 +29,7 @@ this repositry contains leetcode questions solved
 | [0164-maximum-gap](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -71,6 +72,7 @@ this repositry contains leetcode questions solved
 | [0070-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
