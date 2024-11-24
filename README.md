@@ -413,6 +413,7 @@ this repositry contains leetcode questions solved
 | [1073-number-of-enclaves](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/iaaryansood/leetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,6 +481,7 @@ this repositry contains leetcode questions solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,6 +496,7 @@ this repositry contains leetcode questions solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
