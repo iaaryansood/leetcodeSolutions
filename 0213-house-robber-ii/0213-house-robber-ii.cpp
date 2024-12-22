@@ -36,8 +36,6 @@ public:
             }
             else
             {
-                cout<<n<<endl;
-                // cout<<robLinear(nums,1,n-1)<<" "<<robLinear(nums,0,n-2);
                 return max(robLinear(nums,1,n-1),robLinear(nums,0,n-2));
             }
     }
