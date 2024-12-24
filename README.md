@@ -70,6 +70,7 @@ this repositry contains leetcode questions solved
 | [0022-generate-parentheses](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -175,6 +176,7 @@ this repositry contains leetcode questions solved
 | ------- |
 | [0007-reverse-integer](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -505,4 +507,8 @@ this repositry contains leetcode questions solved
 | [0098-validate-binary-search-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
