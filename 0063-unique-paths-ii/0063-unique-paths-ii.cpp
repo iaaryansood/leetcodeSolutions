@@ -6,11 +6,11 @@ public:
         {
             if(obstacleGrid[0][0] == 0)
             {
-                return 1;
+                return dp[n][m] = 1;
             }
             if(obstacleGrid[0][0] == 1)
             {
-                return 0;
+                return dp[n][m] = 0;
             }
         }
         if(n < 0 || m < 0)
