@@ -1,5 +1,5 @@
 class Solution {
-    int helper(vector<vector<int>> grid,vector<vector<int>> &dp,int n,int m)
+    int helper(vector<vector<int>> &grid,vector<vector<int>> &dp,int n,int m)
     {
         if(n == 0 && m == 0)
         {
