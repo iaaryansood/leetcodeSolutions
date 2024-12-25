@@ -6,7 +6,7 @@ public:
         {
             return dp[i][j]=triangle[i][j];
         }
-        else if(i >=n || j >= m)
+        else if(i >n || j > m)
         {
             return 1e9;
         }
