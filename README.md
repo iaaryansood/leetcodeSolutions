@@ -21,6 +21,7 @@ this repositry contains leetcode questions solved
 | [0074-search-a-2d-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@ this repositry contains leetcode questions solved
 | [0063-unique-paths-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0198-house-robber) |
