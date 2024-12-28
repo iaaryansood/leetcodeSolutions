@@ -2,9 +2,9 @@ class Solution {
 public:
     bool helper(vector<int> &arr,vector<vector<int>> &dp,int target,int i,int n)
     {
-        if(target == 0)
+        if(target == 0 && i>= 0 && i < n)
         {
-            return true;
+            return dp[target][i]=true;
         }
         if(target < 0 || i >= n)
         {
