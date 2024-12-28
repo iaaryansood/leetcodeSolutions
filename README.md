@@ -44,6 +44,7 @@ this repositry contains leetcode questions solved
 | [0240-search-a-2d-matrix-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0621-task-scheduler) |
@@ -83,6 +84,7 @@ this repositry contains leetcode questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iaaryansood/leetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
