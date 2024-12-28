@@ -16,7 +16,9 @@ public:
         }
         else
         {
-            bool include=helper(arr,dp,target-arr[i],i+1,n);
+            bool include = false;
+            if(target >= arr[i])
+            include=helper(arr,dp,target-arr[i],i+1,n);
             bool exclude = helper(arr,dp,target,i+1,n);
             return dp[target][i]=include || exclude;
         }
